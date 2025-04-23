@@ -1,2 +1,2 @@
 # Road-Accident-Analysis-Using-Machine-Learning
-The goal of this project is to analyze a road accident dataset to uncover hidden patterns, understand factors contributing to accident severity, and explore how time, driver characteristics, and vehicle types influence road safety.
+The goal of this project is to analyze a road accident dataset to uncover hidden patterns, understand factors contributing to accident severity, and explore how time, driver characteristics, and vehicle types influence road safety. The analysis uses feature engineering, exploratory data analysis (EDA), clustering, and time series modeling to gain actionable insights.
