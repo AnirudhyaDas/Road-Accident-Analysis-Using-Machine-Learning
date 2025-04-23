@@ -5,13 +5,18 @@ The goal of this project is to analyze a road accident dataset to uncover hidden
 # 📁 Dataset Overview:
 The dataset contains information about road accidents, including the following features:
 
-Time: Timestamp of the accident
-Day_of_week: Day the accident occurred
-Age_band_of_driver: Age category of the driver
-Driving_experience: Driver's years of experience
-Type_of_vehicle: Vehicle involved
-Area_accident_occured: Urban, rural, office, etc.
-Lanes_or_Medians: Road layout
-Types_of_Junction: T-junctions, crossings, etc.
-Cause_of_accident: Main reason for the accident
-Accident_severity: Target variable – Slight Injury, Serious Injury, or Fatal Injury
+1. Time: Timestamp of the accident
+2. Day_of_week: Day the accident occurred
+3. Age_band_of_driver: Age category of the driver
+4. Driving_experience: Driver's years of experience
+5. Type_of_vehicle: Vehicle involved
+6. Area_accident_occured: Urban, rural, office, etc.
+7. Lanes_or_Medians: Road layout
+8. Types_of_Junction: T-junctions, crossings, etc.
+9. Cause_of_accident: Main reason for the accident
+10. Accident_severity: Target variable – Slight Injury, Serious Injury, or Fatal Injury
+
+# ⚙️ Feature Engineering:
+- Extracted the hour of accident from the Time field to capture temporal patterns.
+- Converted all categorical columns using Label Encoding to make them suitable for machine learning.
+- Mapped accident severity to numeric classes for modeling.
