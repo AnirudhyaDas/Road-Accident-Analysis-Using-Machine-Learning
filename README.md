@@ -31,10 +31,10 @@ The dataset contains information about road accidents, including the following f
 **2. Category-wise Breakdown**
 
 - Visualized severity distributions across:
--Driver experience levels
--Vehicle types
--Areas (urban, rural, etc.)
--Age bands
+  - Driver experience levels
+  - Vehicle types
+  - Areas (urban, rural, etc.)
+  - Age bands
 
 
 
