@@ -27,6 +27,15 @@ The dataset contains information about road accidents, including the following f
 - Identified how accident severity varies across the week and hour of the day.
 - Peak accident times and days were identified, showing higher frequencies during weekday rush hours and weekends.
 
+2. Category-wise Breakdown
+
+- Visualized severity distributions across:
+  -Driver experience levels
+  -Vehicle types
+  -Areas (urban, rural, etc.)
+  -Age bands
+
+
 
 
 
