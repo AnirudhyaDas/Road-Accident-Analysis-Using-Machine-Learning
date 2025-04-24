@@ -22,12 +22,13 @@ The dataset contains information about road accidents, including the following f
 - Mapped accident severity to numeric classes for modeling.
 
 
-📊 Exploratory Data Analysis (EDA):
-1. Severity by Day & Hour
+# 📊 Exploratory Data Analysis (EDA):
+
+**1. Severity by Day & Hour**
 - Identified how accident severity varies across the week and hour of the day.
 - Peak accident times and days were identified, showing higher frequencies during weekday rush hours and weekends.
 
-2. Category-wise Breakdown
+**2. Category-wise Breakdown**
 
 - Visualized severity distributions across:
   -Driver experience levels
