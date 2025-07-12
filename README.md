@@ -27,9 +27,25 @@ The dataset contains information about road accidents, including the following f
 10. Accident_severity: Target variable – Slight Injury, Serious Injury, or Fatal Injury
 
 # ⚙️ Setup & Installation
-Clone this repository:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/AnirudhyaDas/Road-Accident-Analysis-Using-Machine-Learning.git cd Road-Accident-Analysis-Using-Machine-Learning
 
+2. Install required Python libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
+   
+3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   
+5. Open the Road-Accident-Analysis-Using-Machine-Learning.ipynb notebook to explore the analysis.
 
+# 📊 Libraries Used
+- pandas – data manipulation and cleaning
+- numpy – numerical operations
+- matplotlib & seaborn – data visualization
+- scikit-learn – machine learning and modeling
 
 
 
