@@ -2,6 +2,16 @@
 # 🔍 Objective:
 The goal of this project is to analyze a road accident dataset to uncover hidden patterns, understand factors contributing to accident severity, and explore how time, driver characteristics, and vehicle types influence road safety. The analysis uses **feature engineering, exploratory data analysis (EDA), clustering,** and **time series modeling** to gain actionable insights.
 
+# 📝 Project Overview
+The project focuses on:
+
+- Cleaning and preprocessing road accident data
+- Exploratory data analysis (EDA) to identify trends and patterns
+- Visualization of accident frequency, severity, and contributing factors
+- Feature engineering and preparation for modeling
+- Applying machine learning algorithms to analyze accident severity or predict outcomes
+
+
 # 📁 Dataset Overview:
 The dataset contains information about road accidents, including the following features:
 
