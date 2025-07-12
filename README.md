@@ -1,6 +1,6 @@
 # Road-Accident-Analysis-Using-Machine-Learning
 
-![images](https://github.com/user-attachments/assets/c6626aa8-f9b0-4894-91e4-dc8515257651)
+<img width="740" height="415" alt="Picture1" src="https://github.com/user-attachments/assets/85db94e5-1c36-425c-b8c3-8738c5dc5158" />
 
 
 # 🔍 Objective:
